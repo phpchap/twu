@@ -1,3 +1,8 @@
+toowrappedup/*
+.idea/*
+.idea
+var/locks/*
+var/locks
 var/*
 var*
 var/cache/
